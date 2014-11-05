@@ -1,15 +1,25 @@
 gladiator1k
 ===========
 
-or1k emulator and sandbox for the JVM
+An or1k emulator and sandbox for the JVM (alpha status).
+
+The emulator gets the first part of its name from the gladiators of Ancient Rome. This is because its targeted at programming competitions. It's main purpose it to host multiple sandboxed environments on game servers. With this approach we can:
+
+- compare the efficiency of submissions in a very direct way (e.g. CPU cycles, operations, "ROM" size)
+- give each competitor a fair share of resources
+- based challenges around real-world technologies (since or1k is a fully-featured modern architecture)
+- safely allow competitors to use low-level techniques
+- let competitors run their own game server on a range of platforms (e.g. for local competitions or field-testing submissions)
+
+The project has somewhat different goals and priorities to the javascript-based emulator [jor1k](https://github.com/s-macke/jor1k/wiki), but if you are interested in or1k or emulators then take a look at that project because it is awesome.
 
 related projects
 ----------------
 
 * [or1k community portal](http://opencores.org/or1k/OR1K:Community_Portal)
-* [jor1k](https://github.com/s-macke/jor1k/wiki)
-* [or1ksim](https://github.com/openrisc/or1ksim)
-* [openrisc](https://github.com/openrisc)
+* [jor1k](https://github.com/s-macke/jor1k/wiki) -- an or1k emulator that runs in the browser
+* [or1ksim](https://github.com/openrisc/or1ksim) -- the functional reference emulator
+* [openrisc](https://github.com/openrisc) -- openrisc organization page on github
 
 milestones
 ----------
