@@ -6,10 +6,10 @@ or1k emulator and sandbox for the JVM
 related projects
 ----------------
 
-[or1k community portal](http://opencores.org/or1k/OR1K:Community_Portal)
-[jor1k](https://github.com/s-macke/jor1k/wiki)
-[or1ksim](https://github.com/openrisc/or1ksim)
-[openrisc](https://github.com/openrisc)
+* [or1k community portal](http://opencores.org/or1k/OR1K:Community_Portal)
+* [jor1k](https://github.com/s-macke/jor1k/wiki)
+* [or1ksim](https://github.com/openrisc/or1ksim)
+* [openrisc](https://github.com/openrisc)
 
 milestones
 ----------
