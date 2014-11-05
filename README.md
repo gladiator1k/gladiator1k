@@ -3,11 +3,11 @@ gladiator1k
 
 An or1k emulator and sandbox for the JVM (alpha status).
 
-The emulator gets the first part of its name from the gladiators of Ancient Rome. This is because its targeted at programming competitions. It's main purpose it to host multiple sandboxed environments on game servers. With this approach we can:
+The emulator gets the first part of its name from the gladiators of Ancient Rome, because it is targeted at programming competitions. It's main purpose it to host multiple sandboxed environments. With this approach we can:
 
 - compare the efficiency of submissions in a very direct way (e.g. CPU cycles, operations, "ROM" size)
 - give each competitor a fair share of resources
-- based challenges around real-world technologies (since or1k is a fully-featured modern architecture)
+- based challenges around real-world technologies like networking (since or1k is a fully-featured modern architecture)
 - safely allow competitors to use low-level techniques
 - let competitors run their own game server on a range of platforms (e.g. for local competitions or field-testing submissions)
 
