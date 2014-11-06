@@ -18,7 +18,9 @@ license
 
 gladiator1k is released under GPLv3+.
 
-Choosing an OSS license can be tricky. The GPL license was chosen for transparency and uniformity: the emulator will in most cases be distributed with GNU/Linux tools and binaries; these components and possibly the end result would be GPL. Using the GPL throughout the project allows us more freedom in how these works are combined, so emulator hackers can worry less and code more. GPLv3+ is compatible with a number of popular licenses used in the Java community, too.
+For emulator users, don't worry: the license of the emulator itself does not extend to your software just because you run or compile it inside the emulator. This isn't special to gladiator1k but is a common concern.
+
+GPLv3 was chosen because the emulator is intended to be distributed with a number of tools and binaries, covered by GPL-compatible licenses. Using GPL throughout the distribution keeps the licensing easy to explain and gives plenty of freedom in how the emulator and other tools are combined. GPLv3+ is also compatible with a number of other popular licenses used in the Java community.
 
 See LICENSE for the official details.
 
