@@ -13,6 +13,20 @@ The emulator gets the first part of its name from the gladiators of Ancient Rome
 
 The project has somewhat different goals and priorities to the javascript-based emulator [jor1k](https://github.com/s-macke/jor1k/wiki), but if you are interested in or1k or emulators then take a look at that project because it is awesome. It is also much further along than gladiator1k.
 
+license
+-------
+
+gladiator1k is released under GPLv3+.
+
+Choosing an OSS license can be tricky. The GPL license was chosen for transparency and uniformity: the emulator will in most cases be distributed with GNU/Linux tools and binaries; these components and possibly the end result would be GPL. Using the GPL throughout the project allows us more freedom in how these works are combined, so emulator hackers can worry less and code more. GPLv3+ is compatible with a number of popular licenses used in the Java community, too.
+
+See LICENSE for the official details.
+
+attributions
+------------
+
+Will be here when there are some...
+
 related projects
 ----------------
 
