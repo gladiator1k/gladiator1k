@@ -1,9 +1,13 @@
-gladiator1k
+gladiator1k [![Build Status](https://travis-ci.org/gladiator1k/gladiator1k.svg?branch=master)](https://travis-ci.org/gladiator1k/gladiator1k)
 ===========
 
 An or1k emulator and sandbox for the JVM (alpha status).
 
-The emulator gets the first part of its name from the gladiators of Ancient Rome, because it is targeted at programming competitions. Its main purpose it to host multiple sandboxed environments. With this approach we can:
+The emulator gets the first part of its name from the gladiators of Ancient Rome, because it is targeted at programming competitions. Its main purpose it to host multiple sandboxed environments.
+
+
+
+With this approach we can:
 
 - compare the efficiency of submissions in a very direct way (e.g. CPU cycles, operations, "ROM" size)
 - give each competitor a fair share of resources
