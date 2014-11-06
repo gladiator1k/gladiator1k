@@ -15,16 +15,22 @@ With this approach we can:
 - safely allow competitors to use low-level techniques
 - let competitors run their own game server on a range of platforms (e.g. for local competitions or field-testing submissions)
 
-The project has somewhat different goals and priorities to the javascript-based emulator [jor1k](https://github.com/s-macke/jor1k/wiki), but if you are interested in or1k or emulators then take a look at that project because it is awesome. It is also much further along than gladiator1k.
+The project has somewhat different goals and priorities to the javascript-based emulator
+[jor1k](https://github.com/s-macke/jor1k/wiki), but if you are interested in or1k or emulators then take a look at that
+project because it is awesome. It is also much further along than gladiator1k.
 
 license
 -------
 
 gladiator1k is released under GPLv3+.
 
-GPLv3 was chosen to be hacker-friendly, to match or1ksim, and because the emulator is intended to be distributed with a number of tools and binaries, covered by GPL-compatible licenses. Using GPL throughout the distribution keeps the licensing easy to explain and gives plenty of freedom in how the emulator and other tools are combined. GPLv3+ is also compatible with a number of other popular licenses used in the Java community.
+GPLv3 was chosen to be hacker-friendly, to match or1ksim, and because the emulator is intended to be distributed with a
+number of tools and binaries, covered by GPL-compatible licenses. Using GPL throughout the distribution keeps the licensing
+easy to explain and gives plenty of freedom in how the emulator and other tools are combined. GPLv3+ is also compatible with
+a number of other popular licenses used in the Java community.
 
-For emulator users, don't worry: the license of the emulator itself does not extend to your software just because you run or compile it inside the emulator. This isn't special to gladiator1k but it seems helpful to point out.
+For emulator users, don't worry: the license of the emulator itself does not extend to your software just because you run or
+compile it inside the emulator. This isn't special to gladiator1k but it seems helpful to point out.
 
 See LICENSE for the official details.
 
@@ -46,4 +52,5 @@ milestones
 
 Since there is a lot to do, this project uses Github milestones. The project milestones are viewable [here](https://github.com/gladiator1k/gladiator1k/milestones).
 
-Milestones are named after the gladiators from the 1992-2000 British TV series "Gladiators", chosen alphabetically. The first milestone is Ace, the next will be Blaze, and so on.
+Milestones are named after the gladiators from the 1992-2000 British TV series "Gladiators", chosen alphabetically. The first
+milestone is Ace, the next will be Blaze, and so on.
