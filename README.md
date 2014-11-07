@@ -30,7 +30,7 @@ easy to explain and gives plenty of freedom in how the emulator and other tools 
 a number of other popular licenses used in the Java community.
 
 For emulator users, don't worry: the license of the emulator itself does not extend to your software just because you run or
-compile it inside the emulator. This isn't special to gladiator1k but it seems helpful to point out.
+compile it inside the emulator. Of course, you need to observe the licenses of any libraries you compile against as with any software. This isn't special to gladiator1k, nor is it legal advice, but it seems helpful to point out.
 
 See LICENSE for the official details.
 
